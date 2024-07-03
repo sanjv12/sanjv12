@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Social & Coding Profiles:
+### Profiles:
 <a href="https://www.linkedin.com/in/sanjv12/"><img width="40" height="40" src="https://raw.githubusercontent.com/saran-3012/saran-3012/main/assets/linked-in.svg" alt="LinkedIn"/></a>
 <a href="https://github.com/sanjv12"><img width="40" height="40" src="https://raw.githubusercontent.com/saran-3012/saran-3012/main/assets/git-hub.svg" alt="GitHub"/></a>
 <a href="https://leetcode.com/u/sanjv12/"><img width="40" height="40" src="https://raw.githubusercontent.com/saran-3012/saran-3012/main/assets/leet-code.svg" alt="LeetCode"/></a>
