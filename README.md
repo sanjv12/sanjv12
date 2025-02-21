@@ -1,6 +1,5 @@
 ## Hi  👋
 
-- 😄 Pronouns: He/Him
 - 🔭 I’m currently working on ... Improving myself😄.
 - 🌱 B.E ECE with minor Degree in Artificial intelligence.
 
